@@ -10,7 +10,7 @@ Matlab, Matlab Computer Vision System Toolbox, Python 3.6, cv2 and dlib
 
 ## 2 Running Prototype
 
-Link to our web application
+Link to our web application:
 http://ids-exam-monitoring.000webhostapp.com/
 
 ## 3 Use
