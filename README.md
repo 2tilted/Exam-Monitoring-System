@@ -22,13 +22,12 @@ Play back the output of our incident matching algorithm. We used the left video 
 
 #### Incident List
 
-![](demo.gif)
-
 Click on entry to review detailed information for each incident including affected frames 
+
+![](demo.gif)
 
 Having selected an entry, click again on the top part of the entry in order to jump to the corresponding video position.
 
 In the bottom part, select 'verify' to mark the incident as correct, 'discard' to mark the incident as false and 'cancel' to postpone the 
-
 decision.
 
