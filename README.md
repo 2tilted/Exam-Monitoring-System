@@ -4,7 +4,7 @@ In higher education, many tasks related to fraud detection have been automated, 
 
 ## 1 Prerequisites
 
-In order to run our code, you will need to install ...
+In order to run our code, you will need to install:
 
 Matlab, Matlab Computer Vision System Toolbox, Python 3.6, cv2 and dlib
 
